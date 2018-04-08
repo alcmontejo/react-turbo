@@ -1,2 +1,2 @@
 # react-turbo
-react version of yurbo pascal sample program 
+react version of turbo pascal sample program 
