@@ -5,7 +5,7 @@ react version of turbo pascal sample program
 [Application Architecture Definition]()
 
 
-![bluemix-architecture-diagram]()
+![architecture-diagram]()
 
 <br/>
 
@@ -48,7 +48,7 @@ git clone git@github.com:alcmontejo/react-turbo.git react-turbo
 ```
 2. Go to the project directory.
 ```
-cd bm-tools
+cd react-turbo
 ```
 3. Install the required Node modules for the server.
 ```
